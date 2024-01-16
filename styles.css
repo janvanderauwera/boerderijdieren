@@ -1,14 +1,12 @@
 
 body, html {
-  height: 100%;
   margin: 0;
 }
 
 body { 
-    height: 100%;
     text-align: center;
     color:rgb(11, 55, 138) ;
-    font-size: larger;
+    font-size: 1.5vw;
 }
 
 .bg {
@@ -16,19 +14,21 @@ body {
     background-image: url(Boerderij/background.jpg);
   
     /* Full height */
-    height: 100%; 
-  
+ 
+
     /* Center and scale the image nicely */
-    background-position: center;
+    background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 
 
 .container {
 
-  margin-top: 20px;
+  margin-top: 40px;
+  margin-bottom: 30px;
   
   
   
@@ -38,14 +38,14 @@ body {
 
     display: inline-grid;
     grid-template-columns: 1fr 1fr 1fr 1fr ;
-    row-gap: 40px;
+    row-gap: 10px;
     column-gap: 30px;
 
   }
 
 .boerderijDier{
 
-    width: 250px;
+    width: 15vw;
     display: block;
     
     border: 2px solid rgb(11, 55, 138);
@@ -57,7 +57,7 @@ body {
     
     border: 2px solid rgb(11, 55, 138);
     border-radius: 5px;
-    width: 250px;
+    width: 15vw;
     display: block;
     margin-top: 10px;
    
