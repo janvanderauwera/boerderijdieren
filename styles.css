@@ -1,0 +1,62 @@
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+body { 
+    height: 100%;
+    text-align: center;
+}
+
+.bg {
+    /* The image used */
+    background-image: url('/Boerderij/Boerderij/background.jpg');
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.container {
+  margin-left: 50px;
+  margin-top: 20px;
+  
+  
+  
+}
+
+.wrapper{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    row-gap: 40px;
+    column-gap: 30px;
+
+  }
+
+.boerderijDier{
+
+    width: 250px;
+    display: block;
+    
+    border: 2px solid rgb(11, 55, 138);
+    border-radius: 5px;
+}
+
+ 
+.boerderijDierNaam{
+    
+    border: 2px solid rgb(11, 55, 138);
+    border-radius: 5px;
+    width: 250px;
+    display: block;
+    margin-top: 10px;
+   
+  }
