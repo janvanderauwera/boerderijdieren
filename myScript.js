@@ -40,13 +40,13 @@ const dieren = [{
   image : "Boerderij/dieren/schaap.png", 
 
 },
-/*{
+{
   naam : "Stier", 
   audio : "https://freeanimalsounds.org/wp-content/uploads/2017/07/ochse.mp3",
   image : "Boerderij/dieren/stier.png", 
 
 },
-*/
+
 /*{
   naam : "Kat", 
   audio : "https://freeanimalsounds.org/wp-content/uploads/2017/07/Katze_miaut.mp3",
