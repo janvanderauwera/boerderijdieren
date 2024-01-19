@@ -47,20 +47,20 @@ const dieren = [{
 
 },
 
-/*{
+{
   naam : "Kat", 
   audio : "https://freeanimalsounds.org/wp-content/uploads/2017/07/Katze_miaut.mp3",
   image : "Boerderij/dieren/kat.png", 
 
 },
-*/
-/*{
+
+{
   naam : "Hond", 
   audio : "https://freeanimalsounds.org/wp-content/uploads/2017/07/Bluthund_jault.mp3",
   image : "Boerderij/dieren/hond.png", 
 
 },
-*/
+
 /*{
   naam : "Geit", 
   audio : "https://freeanimalsounds.org/wp-content/uploads/2017/07/Ziege.mp3",
@@ -89,14 +89,14 @@ const dieren = [{
 
 },
 */
-/*{
+{
   naam : "Eend", 
   audio : "https://freeanimalsounds.org/wp-content/uploads/2017/07/Ente_quackt.mp3",
   image : "Boerderij/dieren/eend.png", 
 
 },
-*/
-/*{
+/*
+{
   naam : "Ezel", 
   audio : "https://freeanimalsounds.org/wp-content/uploads/2017/09/donkey.mp3",
   image : "Boerderij/dieren/ezel.png", 
